@@ -1,0 +1,62 @@
+﻿  Source.c
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(102,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(103,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(167,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(190,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(205,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(208,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(210,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(241,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(242,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(243,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(257,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(262,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(290,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(295,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(318,66): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(340,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(347,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(357,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(360,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(392,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(399,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(410,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(412,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(415,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(428,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(431,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(452,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(453,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(454,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(460,24): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(471,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(473,16): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(481,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(487,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(492,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(506,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(509,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(470,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(380,13): warning C4101: 'nomMatiere' : variable locale non référencée
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(382,15): warning C4101: 'nbEtu' : variable locale non référencée
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(381,13): warning C4101: 'nomEpreuve' : variable locale non référencée
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(537,8): warning C4477: 'scanf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 1 est de type 'const char *'
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(538,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(549,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(551,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(554,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(567,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(580,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(601,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(602,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(603,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(609,25): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(619,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(622,22): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(640,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(649,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(577,18): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(525,13): warning C4101: 'nomMatiere' : variable locale non référencée
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(527,15): warning C4101: 'nbEtu' : variable locale non référencée
+C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\SAE_DE_C\Source.c(526,13): warning C4101: 'nomEpreuve' : variable locale non référencée
+  SAE_DE_C.vcxproj -> C:\Users\yassi\OneDrive\Bureau\Code\SAE_DE_C\x64\Debug\SAE_DE_C.exe
